@@ -1,0 +1,39 @@
+.nav {
+    text-align: left;
+    font-size: 24px;
+    align-items: left;
+    padding: 14px 16px;
+    background-color: black;
+    color:white;
+
+}
+
+
+.nav1 {
+    float: right;
+    text-align: right;
+    font-size: 18px;
+    align-items: right;
+}
+
+.bigfont {
+    font-size: 24px;
+    float:center;
+    text-align: left;
+}
+
+.tableau {
+    background-color:rgb(199, 241, 202);
+}
+
+.navactive {
+    background-color:black;
+    color: white;
+}
+
+.footer {
+    float: center;
+    text-align: center;
+    font-size: 18px;
+    align-items: center;
+}
